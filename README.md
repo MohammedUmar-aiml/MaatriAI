@@ -9,4 +9,4 @@ Pregnant mothers receive periodic doctor guidance but lack structured monitoring
 Human Medical Guidance vs Continuous AI Monitoring.
 
 ## Status
-Project under development for Hackathon.
+Prototype developed for AI healthcare monitoring and risk intelligence workflows.
